@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e91a49bc85a2cf44a2afe7a37b7efff
+timeCreated: 1525108553
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heroes Assemble Condensed
+  fontNames:
+  - Heroes Assemble Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
